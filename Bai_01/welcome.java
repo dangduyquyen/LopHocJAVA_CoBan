@@ -1,10 +1,7 @@
 package Bai_01;
 
 public class welcome {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Welcome to java");
+	public static void main(String[] agsr) {
+		System.out.print("Welcome to java");
 	}
-
 }
